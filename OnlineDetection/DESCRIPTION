@@ -1,0 +1,12 @@
+Package: OnlineDetection
+Type: Package
+Title: Change point detection for the streaming data
+Version: 0.1.0
+Author: Jun Lu and Xiaoyu Ma
+Maintainer: Xiaoyu Ma<xyu.ma@outlook.com>
+Description: Change point detection for the streaming data.
+License: GPL-2
+Depends: gcdnet
+Encoding: UTF-8
+RoxygenNote: 7.3.2
+NeedsCompilation: no
