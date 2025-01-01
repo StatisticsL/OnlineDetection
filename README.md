@@ -1,6 +1,6 @@
 # OnlineDetection
 
-The package and simulations for Online Detection.
+The package for Online Detection.
 
 How to install the package:
 
