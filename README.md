@@ -10,4 +10,4 @@ library("devtools")
 
 install_github("StatisticsL/OnlineDetection/OnlineDetection")
 
-You can ues "demo_ls.R" to do a simple simulation.
+You can use "demo_ls.R" to do a simple simulation.
